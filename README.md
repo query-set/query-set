@@ -1,8 +1,4 @@
-### Welcome here!
-
-- 🔭 I’m currently working on Pytter and Kyanite. Really busy...
-- 🌱 I’m currently learning Clojure and graphics.
-
+### Hi.
 
 <!--
 **query-set/query-set** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
